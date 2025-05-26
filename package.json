@@ -1,0 +1,12 @@
+{
+  "name": "react_learning-main",
+  "version": "1.0.0",
+  "description": "this is a repo for learning reactJS # react_learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
